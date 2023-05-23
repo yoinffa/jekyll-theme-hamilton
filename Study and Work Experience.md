@@ -14,6 +14,7 @@ permalink: /Study and Work Experience/
 
 &diams;	knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
 
+
 2018/06-2021/06 &nbsp; &nbsp; Guangxi Medical University, Academic Master's degree, majoring in internal medicine
 
 **LANGUAGE** National College English Test-6 (CET-6), R, Python, Perl and shell programming.
