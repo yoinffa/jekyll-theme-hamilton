@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Study & Work Experience
 permalink: /Study and Work Experience/
 ---
 # Study
