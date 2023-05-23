@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Study and Work Experience/
 ---
 # Study
 2012/09-2017/06 Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
