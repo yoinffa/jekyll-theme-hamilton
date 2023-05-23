@@ -4,7 +4,7 @@ title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
 # Study
-2012/09-2017/06 Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
+<front color="red">2012/09-2017/06</front> Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
 
 **LANGUAGE** National College English Test-4 (CET-4)
 
