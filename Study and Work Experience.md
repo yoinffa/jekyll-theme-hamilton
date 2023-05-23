@@ -9,6 +9,7 @@ permalink: /Study and Work Experience/
 **LANGUAGE** National College English Test-4 (CET-4)
 
 **SKILL**
+
 &diams;	knowledge about basic medical sciences: physiology, biochemistry and molecular biology, pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
 
 &diams;	knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
