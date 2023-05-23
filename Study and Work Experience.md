@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Study & Work Experience
+title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
 # Study
 2012/09-2017/06 Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
-LANGUAGE: National College English Test-4 (CET-4)
-SKILL
-&diams;	knowledge about basic medical sciences: physiology, biochemistry and molecular biology,   
-pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
+
+**LANGUAGE** National College English Test-4 (CET-4)
+
+**SKILL**
+&diams;	knowledge about basic medical sciences: physiology, biochemistry and molecular biology, pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
+
 &diams;	knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
 
 2018/06-2021/06 Guangxi Medical University, Academic Master's degree, majoring in internal medicine
