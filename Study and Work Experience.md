@@ -3,7 +3,6 @@ layout: page
 title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
-<HTML>
 # Study
 <front color="red">2012/09-2017/06</front> &nbsp; &nbsp; Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
 
