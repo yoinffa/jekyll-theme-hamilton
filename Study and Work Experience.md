@@ -4,7 +4,7 @@ title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
 # Study
-<front color="red">2012/09-2017/06</front> Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
+<front color="red">2012/09-2017/06</front>  Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
 
 **LANGUAGE** National College English Test-4 (CET-4)
 
@@ -14,7 +14,7 @@ permalink: /Study and Work Experience/
 
 &diams;	knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
 
-2018/06-2021/06 Guangxi Medical University, Academic Master's degree, majoring in internal medicine
+2018/06-2021/06  Guangxi Medical University, Academic Master's degree, majoring in internal medicine
 
 **LANGUAGE** National College English Test-6 (CET-6), R, Python, Perl and shell programming.
 
@@ -30,7 +30,7 @@ permalink: /Study and Work Experience/
 
 
 # Work Experience
-2021/07-present The First People’s Hospital of Nanning City, work as a cardiovascular internal medicine resident physician
+2021/07-present  The First People’s Hospital of Nanning City, work as a cardiovascular internal medicine resident physician
 SKILL: 
 
 &diams;	Advanced Technical Engineer Certificate in Computational Fluid Dynamics (CFD) simulation
