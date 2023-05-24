@@ -3,7 +3,7 @@ description: A minimal and beautiful Jekyll theme best for writing and note-taki
 author: Yongfa Dai
 avatar: /logo.png
 email: yoinffa@outlook.com
-skin: daylight
+
 
 plugins:
   - jekyll-seo-tag
@@ -42,3 +42,4 @@ social:
     - https://github.com/yoinffa
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
+skin: daylight
