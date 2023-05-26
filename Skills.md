@@ -1,9 +1,10 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
+title: "Show of my skills"
 categories: junk
 tags: [markdown, css, html]
+permalink: /Skills/
 Built by:
   - Yoinffa Dave
 ---
