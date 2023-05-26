@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Study and Work Experience
-permalink: /Study and Work Experience/
+title: Papers and Patent
+permalink: /Papers and Patent/
 ---
 # Papers
 1.  Dai, Y., Li, J., Wen, H., Liu, J., & Li, J. (2021). In Silico Analysis of the Gene Expression Patterns between Aldosterone-Producing Adenoma and Nonfunctional Adrenocortical Adenoma. Genet Res (Camb), 2021, 9553637. [doi:10.1155/2021/9553637](https://pubmed.ncbi.nlm.nih.gov/34690553/).
