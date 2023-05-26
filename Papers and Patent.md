@@ -3,7 +3,7 @@ layout: page
 title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
-# Paper
+# Papers
 1.  Dai, Y., Li, J., Wen, H., Liu, J., & Li, J. (2021). In Silico Analysis of the Gene Expression Patterns between Aldosterone-Producing Adenoma and Nonfunctional Adrenocortical Adenoma. Genet Res (Camb), 2021, 9553637. [doi:10.1155/2021/9553637](https://pubmed.ncbi.nlm.nih.gov/34690553/).
 
 2.	Qin, F., Li, J., Dai, Y. F., Zhong, X. G., & Pan, Y. J. (2022). Renal denervation inhibits the renin-angiotensin-aldosterone system in spontaneously hypertensive rats. Clin Exp Hypertens, 44(1), 83-92. [doi:10.1080/10641963.2021.1996587](https://pubmed.ncbi.nlm.nih.gov/34818958/).
