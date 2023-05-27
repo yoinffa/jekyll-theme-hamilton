@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "This post"
+title: "Show of My Skills"
 permalink: /Skills/
 ---
 
