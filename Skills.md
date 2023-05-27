@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title: "This post"
 permalink: /Skills/
 ---
