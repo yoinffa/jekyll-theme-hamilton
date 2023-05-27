@@ -7,6 +7,7 @@ permalink: /Skills/
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 -[heading 1](#1-Some great heading)
+ 
  -[1.1 sub1](#11-sub1)
    sdfdss
    
