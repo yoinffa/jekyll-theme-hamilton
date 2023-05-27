@@ -4,6 +4,7 @@ toc: true
 title: "This post demonstrates post content styles"
 categories: junk
 tags: [markdown, css, html]
+permalink: /Skills/
 author:
   - Bart Simpson
   - Nelson Mandela Muntz
