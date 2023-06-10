@@ -22,15 +22,14 @@ permalink: /Study and Work Experience/
 
 **SKILL**
 
-&diams;	Core courses for academic master's degree: medical statistics, bioinformatics, clinical epidemiology, medical experimental animal science, molecular biology techniques, etc.
+-	Core courses for academic master's degree: medical statistics, bioinformatics, clinical epidemiology, medical experimental animal science, molecular biology techniques, etc.
 
-&diams;	Data analysis for bioinformatic project: GWAS, RNA-seq, Single-cell RNA-Seq, ATAC-seq, Chi-seq, etc.
+-	Data analysis for bioinformatic project: GWAS, RNA-seq, Single-cell RNA-Seq, ATAC-seq, Chi-seq, etc.
 
-&diams;	Clinical data analysis and Machine learning model construction (base on R and python): data cleaning and selection, logistic regression, Cox regression, Lasso regression, ridge regression, support vector machine, regression tree, classification tree, random forest, gradient boosting, neural network, etc.
+-	Clinical data analysis and Machine learning model construction (base on R and python): data cleaning and selection, logistic regression, Cox regression, Lasso regression, ridge regression, support vector machine, regression tree, classification tree, random forest, gradient boosting, neural network, etc.
 
-&diams;	Experimental technique: Cell culturing, WB, PCR, Immunohistochemistry, Immunofluorescence, (pHi) measurement, etc.
+-	Experimental technique: Cell culturing, WB, PCR, Immunohistochemistry, Immunofluorescence, (pHi) measurement, etc.
 
-&nbsp;
 &nbsp;
 
 # Work Experience
