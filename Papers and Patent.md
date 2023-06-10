@@ -13,4 +13,12 @@ permalink: /Papers and Patent/
 4.	Dai, Y., Li, J., Qin, F., Li, S., Su, L., Cai, B., Wu, S., Pan, Y., Zhong, X. (2020). Effects of renal artery denervation on sympathoadrenal system in spontaneously hypertensive rats. Chin J Mod Med, 30(17), 1-6. (Chin J Mod Med is a core journal of China)
 
 # Patent
-China National Patent: A new type of hourglass-shaped measuring bottle. Patent number: **ZL 2020 2 0204512.0**
+- **China National Patent:** A new type of hourglass-shaped measuring bottle. Patent number: **ZL 2020 2 0204512.0**
+
+# Certifications
+- **Professional Skills Certificate of Professional Talents:** Advanced Technical Engineer Certificate in Computational Fluid Dynamics (CFD) simulation
+- Occupational Physician Qualification Certificate of China 
+- Occupational Physician Practice Certificate
+
+
+
