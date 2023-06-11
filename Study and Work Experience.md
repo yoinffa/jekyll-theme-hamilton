@@ -3,9 +3,15 @@ layout: page
 title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
-# Study
-dateFormat YYYY-MM-DD
-**[2012/09-2017/06]** &nbsp; &nbsp; Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
+# Education
+
+<font color=gray size=200>灰色处理</font><br/>
+
+<font face="Tahoma">这是一串Tahoma字体</font><br/>
+
+<table><tr><td bgcolor=#bfe1f1>背景色是：#bfe1f1</td></tr></table>
+
+**`2012.09-2017.06`** &nbsp; &nbsp; Youjiang Medical University For Nationalities - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)*
 
 **LANGUAGE** National College English Test-4 (CET-4)
 
