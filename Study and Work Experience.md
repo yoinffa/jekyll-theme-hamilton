@@ -4,6 +4,7 @@ title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
 # Study
+dateFormat YYYY-MM-DD
 **[2012/09-2017/06]** &nbsp; &nbsp; Youjiang Medical University For Nationalities, Bachelor's degree, majoring in clinical medicine
 
 **LANGUAGE** National College English Test-4 (CET-4)
