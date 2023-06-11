@@ -11,15 +11,21 @@ permalink: /Study and Work Experience/
 
 <table><tr><td bgcolor=#bfe1f1>背景色是：#bfe1f1</td></tr></table>
 
-**`2012.09-2017.06`** &nbsp; &nbsp; Youjiang Medical University For Nationalities - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)*
+创建脚注格式 [^努力学习]。
 
-**LANGUAGE** National College English Test-4 (CET-4)
+[^努力学习]: 努力学习才能成功
 
-**SKILL**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210319182611692.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210319215441212.png#pic_center "插入的图片")
 
-&diams;	knowledge about basic medical sciences: physiology, biochemistry and molecular biology, pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
 
-&diams;	knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
+
+**`2012.09-2017.06` &nbsp; &nbsp; Youjiang Medical University For Nationalities - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)***
+
+**Courses**:
+- knowledge about basic medical sciences: physiology, biochemistry and molecular biology, pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
+
+- knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
 
 &nbsp;
 
