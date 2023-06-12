@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Detail
-permalink: /Study and Work Experience/
+title: Details
+permalink: /Details/
 ---
 # Education
 **`2012.09-2017.06` &nbsp; &nbsp; Youjiang Medical University For Nationalities** - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)*
