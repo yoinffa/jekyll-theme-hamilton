@@ -4,54 +4,56 @@ title: Study and Work Experience
 permalink: /Study and Work Experience/
 ---
 # Education
-
-<font color=gray size=200>灰色处理</font><br/>
-
-<font face="Tahoma">这是一串Tahoma字体</font><br/>
-
-<table><tr><td bgcolor=#bfe1f1>背景色是：#bfe1f1</td></tr></table>
-
-创建脚注格式 [^努力学习]。
-
-[^努力学习]: 努力学习才能成功
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210319182611692.png#pic_center)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210319215441212.png#pic_center "插入的图片")
-
-
-
-**`2012.09-2017.06` &nbsp; &nbsp; Youjiang Medical University For Nationalities - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)***
-
+**`2012.09-2017.06` &nbsp; &nbsp; Youjiang Medical University For Nationalities** - *Bachelor of Clinical Medicine (Counselor: Pro. Keming Li)*
 **Courses**:
-- knowledge about basic medical sciences: physiology, biochemistry and molecular biology, pathophysiology, microbiology, histology and embryology, pharmacology, immunology, systematic anatomy, etc.
+- **Basic Medical Sciences:**   Physiology, Biochemistry and Molecular Biology, Pathophysiology, Pathology, Microbiology, Histology and Embryology, pharmacology, Immunology, Systematic anatomy, etc.
+- **Clinical Medicine:** Internal medicine, Surgery, Obstetrics, Neurology, and Gynecology, Pediatrics, etc.
 
-- knowledge about clinical sciences: Clinical medicine mainly includes: internal medicine, surgery, obstetrics and gynecology, pediatrics, etc.
-
-&nbsp;
-
-**[2018/06-2021/06]** &nbsp; &nbsp; Guangxi Medical University, Academic Master's degree, majoring in internal medicine
-
-**LANGUAGE** National College English Test-6 (CET-6), R, Python, Perl and shell programming.
-
-**SKILL**
-
--	Core courses for academic master's degree: medical statistics, bioinformatics, clinical epidemiology, medical experimental animal science, molecular biology techniques, etc.
-
--	Data analysis for bioinformatic project: GWAS, RNA-seq, Single-cell RNA-Seq, ATAC-seq, Chi-seq, etc.
-
--	Clinical data analysis and Machine learning model construction (base on R and python): data cleaning and selection, logistic regression, Cox regression, Lasso regression, ridge regression, support vector machine, regression tree, classification tree, random forest, gradient boosting, neural network, etc.
-
--	Experimental technique: Cell culturing, WB, PCR, Immunohistochemistry, Immunofluorescence, (pHi) measurement, etc.
+**`2018.09-2021.06` &nbsp; &nbsp; Guangxi Medical University** - *Master of Cardiology (Supervisor: Pro. Jianling Li)*
+**Courses**:
+-	Medical statistics, Bioinformatics, Clinical epidemiology, Medical experimental animal science, Molecular biology techniques, etc.
 
 &nbsp;
-
 # Work Experience
-**[2021/07-present]** &nbsp; &nbsp; The First People’s Hospital of Nanning City, work as a cardiovascular internal medicine resident physician
-SKILL: 
+**`2021.07 ~ ` &nbsp; &nbsp; The First People’s Hospital of Nanning City, The Fifth hospital of Guangxi Medical University** - *Resident Physician for Cardiology*
 
-&diams;	Advanced Technical Engineer Certificate in Computational Fluid Dynamics (CFD) simulation
+&nbsp;
+# Technical Skills
+**Bioinformatics data analysis**
+- Laboratory Server Setup and Management
+- Bioinformatics data analysis for high throughput sequencing, single-cell RNA-seq, m6A-seq, and GWAS
+- Transcriptome and Methylation Chip Data Analysis
 
-&diams;	Mendelian randomization analysis
+**Programming and Platform**
+- Programming: R, Python, Perl, and Shell
+- Platform: Linux, Windows, and Amazon Cloud Server
+
+**Experimental Skills**
+- Cell culturing, High-Fat Diet-Induced Animal model construction, Adeno-Virus Transfection
+- Quantitative real-time PCR (qRT-PCR), Western blotting (WB), immunohistochemistry (IHC), Immunofluorescence
+(IF)
+- RNA immunoprecipitation (RIP), MeRIP-qPCR, siRNA for RNA silencing, and Flow cytometry assay
+
+**Others**
+- Clinical Predictive Model Construction: Logistic regression, Cox, Lasso, Ridge, SVM, and Neural network
+- Medical 3D Modeling and Computational Fluid Dynamics (CFD) assessment for aortic hemodynamics
+- Software: PS, Illustrator, Image J, 3-matic Medical, Mimics Medical, fluent 19.2, CFD-post, and Tecplot
+
+# Research Experiences
+**Project1** *Jan. 2017 - Dec. 2020*  
+**Research on the shared genetic mechanisms of hypertension and type 2 diabetes based on molecular network data mining** - *National Natural Science Foundation of China (No. 81660075)*
+- **Description:** This research project investigates the shared genetic variants between primary hypertension and type 2 diabetes, employing molecular network construction and GWAS data analysis methodologies. Our findings reveal the association of polymorphisms of rs458710 on CSNK2A1 and rs2286674 on PRKCA with the phenotype of combined type 2 diabetes and hypertension, using an unconditional logistic regression model. Notably, both genes exhibit enrichment within the Wnt signaling pathway. Furthermore, we observe significant associations between variants in CSNK2A1, PRKCA, and RKCA and various clinical traits in patients affected by both hypertension and type 2 diabetes, including BMI and weight
+- **Contribution:** Genetic association analysis, Construction of patient information database, Data quality control, statistical analysis, and data visualization (Manhattan plots, QQ plots, and protein-protein interaction network plots etc.)
+
+**Project2** *Jan. 2020 - Dec. 2023*  
+**Study on the regulatory mechanism of NHE in proximal tubule epithelial cells based on molecular network analysis of renal sympathetic nervous system and RAAS crosstalk** - *National Natural Science Foundation of
+China (No. 81960087)*  
+- **Description:** This study explores the roles of the crosstalk between the renal sympathetic nervous system and the
+RAAS system on the regulatory mechanism of sodium-hydrogen exchangers (NHE) in proximal tubular cells. We
+have preliminarily confirmed the upregulation effect of the beta2-adrenergic receptor/GRK2/ARRB1 pathway on
+NHE3 activity
+- **Contribution:** Experimental protocol design, Cell experiment, Molecular experiment, pHi recovery rate measurement
+(for the detection of NHE3 activity) etc.
 
 
 
