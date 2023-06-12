@@ -10,3 +10,7 @@ permalink: /about/
 <center>
   [GET MY CV here!](/assets/css/CV.pdf)
 </center>
+
+<div align="center">
+<img src="/assets/css/CV.pdf" alt="Get My CV here!" />
+</div>
