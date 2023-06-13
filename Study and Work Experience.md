@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Details
+title: Details about me
 permalink: /Study and Work Experience/
 ---
 # Education
@@ -13,11 +13,9 @@ permalink: /Study and Work Experience/
 **Courses**:
 -	Medical statistics, Bioinformatics, Clinical epidemiology, Medical experimental animal science, Molecular biology techniques, etc.
 
-&nbsp;
 # Work Experience
 **`2021.07 ~ ` &nbsp; &nbsp; The First People’s Hospital of Nanning City, The Fifth hospital of Guangxi Medical University** - *Resident Physician for Cardiology*
 
-&nbsp;
 # Technical Skills
 ### Bioinformatics data analysis
 - Laboratory Server Setup and Management
