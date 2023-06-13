@@ -4,8 +4,8 @@ toc: true
 title: "Show of My Skills"
 permalink: /Skills/
 ---
-<div align='cneter'>
-<front face="微软雅黑" size="70">Parts of my skills will be show here!</front>
+<div align='center'>
+<front face="微软雅黑" size= 8 >Parts of my skills will be show here!</front>
 </div>
 
 ## 1.Automatic experiment data anlysis by self-programing Python scripts
