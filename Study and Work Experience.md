@@ -13,26 +13,28 @@ permalink: /Study and Work Experience/
 **Courses**:
 -	Medical statistics, Bioinformatics, Clinical epidemiology, Medical experimental animal science, Molecular biology techniques, etc.
 
+&nbsp;
 # Work Experience
 **`2021.07 ~ ` &nbsp; &nbsp; The First People’s Hospital of Nanning City, The Fifth hospital of Guangxi Medical University** - *Resident Physician for Cardiology*
 
-# Technical Skills
-### Bioinformatics data analysis
+&nbsp;
+# Technical Skills  
+**Bioinformatics data analysis**
 - Laboratory Server Setup and Management
 - Bioinformatics data analysis for high throughput sequencing, single-cell RNA-seq, m6A-seq, and GWAS
 - Transcriptome and Methylation Chip Data Analysis
 
-### Programming and Platform
+**Programming and Platform**
 - Programming: R, Python, Perl, and Shell
 - Platform: Linux, Windows, and Amazon Cloud Server
 
-### Experimental Skills
+**Experimental Skills**
 - Cell culturing, High-Fat Diet-Induced Animal model construction, Adeno-Virus Transfection
 - Quantitative real-time PCR (qRT-PCR), Western blotting (WB), immunohistochemistry (IHC), Immunofluorescence
 (IF)
 - RNA immunoprecipitation (RIP), MeRIP-qPCR, siRNA for RNA silencing, and Flow cytometry assay
 
-### Others
+**Others**
 - Clinical Predictive Model Construction: Logistic regression, Cox, Lasso, Ridge, SVM, and Neural network
 - Medical 3D Modeling and Computational Fluid Dynamics (CFD) assessment for aortic hemodynamics
 - Software: PS, Illustrator, Image J, 3-matic Medical, Mimics Medical, fluent 19.2, CFD-post, and Tecplot
