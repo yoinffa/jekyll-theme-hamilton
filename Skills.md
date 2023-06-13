@@ -19,7 +19,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 - Population structure analysis of GWAS data on bio-Linux
 - Calculation of LD (Linkage Disequilibrium) decay distance by PopLDdecay 
 
-## 3.GWAS data anlysis  
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+## 4.Single cell RNA-seq data analysis
+- Clustering and cells annotation for single cell RNA-seq data
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+## 5.Machine learning model construction
+- Predict the occurrence of diseases using decision tree and neural network machine learning models
+- Construction of Lasso regression model and Ridge regression model
+
+## 6.Sequence and clinical data analysis
+- Sequence and clinical data analysis using Biopython and Perl
+
+## 7.Computational Fluid Dynamics (CFD) analysis
+- CFD analysis of dilated aorta of patient with severe aortic valve stenosis
