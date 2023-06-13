@@ -8,7 +8,7 @@ permalink: /Skills/
 <front face="微软雅黑" size= 8 >Parts of my skills will be show here!</front>
 </div>
 
-## 1.Automatic experiment data anlysis by self-programing Python scripts
+## 1.Automatic experiment data analysis by self-programing Python scripts
 - Automatic analysis and extraction of pHi data using self-programming Python scripts which is available in Github: [https://github.com/yoinffa/yoinffa](https://github.com/yoinffa/yoinffa)  
 ![My helpful screenshot](/assets/css/resume 5-4.png)
 
