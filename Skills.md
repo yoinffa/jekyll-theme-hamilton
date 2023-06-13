@@ -5,7 +5,7 @@ title: "Show of My Skills"
 permalink: /Skills/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. iii
+I would show parts of my skills here!
 
 ## 1.Automatic experiment data anlysis by self-programing Python scripts
 - Automatic analysis and extraction of pHi data using self-programming Python scripts which is available in Github: [https://github.com/yoinffa/yoinffa](https://github.com/yoinffa/yoinffa)  
