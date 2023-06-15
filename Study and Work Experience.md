@@ -37,7 +37,7 @@ permalink: /Study and Work Experience/
 **Others**
 - Clinical Predictive Model Construction: Logistic regression, Cox, Lasso, Ridge, SVM, and Neural network
 - Medical 3D Modeling and Computational Fluid Dynamics (CFD) assessment for aortic hemodynamics
-- Software: PS, Illustrator, Snapegene, Image J, 3-matic Medical, Mimics Medical, fluent 19.2, CFD-post, and Tecplot
+- Software: PS, Illustrator, Snapgene, Image J, 3-matic Medical, Mimics Medical, fluent 19.2, CFD-post, and Tecplot
 
 &nbsp;
 # Research Experiences
