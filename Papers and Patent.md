@@ -26,6 +26,8 @@ A case of Shockwave lithotripsy balloon assisted transfemoral passage for TAVR (
 
 # Certifications
 - **Professional Skills Certificate of Professional Talents:** Advanced Technical Engineer Certificate in Computational Fluid Dynamics (CFD) simulation
+- College English Test Band 4 (CET4) 
+- College English Test Band 6 (CET6)
 - Occupational Physician Qualification Certificate of China 
 - Occupational Physician Practice Certificate
 
