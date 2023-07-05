@@ -18,8 +18,7 @@ denervation on sympathoadrenal system in spontaneously hypertensive rats. Chin J
 randomization study (Journal: International Journal of Epidemiology)
 
 **Reciepted**  
-
-A case of Shockwave lithotripsy balloon assisted transfemoral passage for TAVR (Journal: Chinese Journal of Cardiology) (Published In Chinese)
+Transcatheter aortic valve replacement via femoral artery access assisted by shockwave lithotripsy balloon: The First Report in China (Journal: Chinese Journal of Cardiology) (Published In Chinese)
 
 # Patent
 - **China National Patent:** A new type of hourglass-shaped measuring bottle. Patent number: **ZL 2020 2 0204512.0**
