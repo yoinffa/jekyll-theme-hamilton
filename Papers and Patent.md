@@ -11,11 +11,10 @@ permalink: /Papers and Patent/
 4. Dai, Y., Li, J., Qin, F., Li, S., Su, L., Cai, B., Wu, S., Pan, Y., Zhong, X. (2020). [Effects of renal artery
 denervation on sympathoadrenal system in spontaneously hypertensive rats. Chin J Mod Med, 30(17), 1-6.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXotnIwvixtIFFcGuybztdNV4IQVjVYYm1WU1tnhRJVMu2&uniplatform=NZKPT) (Published In Chinese)
 
-**Submitted**  
+**Submitted(Under review)**  
 1. GRK2/beta-arrestin1 signaling is involved in Na+/H+ exchanger activation induced by isoprenaline (Journal: Cell Calcium)  
-2. Ascending aorta dilation and the difference of hemodynamic parameters after TAVR treatment: assessment by computational fluid dynamic simulation (Journal: Cardiovascular Engineering and Technology)  
-3. No causal effects causality correlation between the risk of COVID-19 and albumin level: A mendelian
-randomization study (Journal: International Journal of Epidemiology)
+2. Ascending aorta dilation and the difference of hemodynamic parameters after TAVR treatment: assessment by computational fluid dynamic simulation (Journal: Cardiovascular Engineering and Technology)
+3. A case with acute coronary occlusion in TAVR, how to prevent it? (Journal: JAMA Cardiology)
 
 **Reciepted**  
 Transcatheter aortic valve replacement via femoral artery access assisted by shockwave lithotripsy balloon: The First Report in China (Journal: Chinese Journal of Cardiology) (Published In Chinese)
