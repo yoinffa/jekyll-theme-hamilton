@@ -43,7 +43,5 @@ permalink: /Skills/
 
 ## 7.Computational Fluid Dynamics (CFD) analysis
 - CFD analysis of dilated aorta of patient with severe aortic valve stenosis  
-![My helpful screenshot](/assets/css/resume 5-12.png)  
-![My helpful screenshot](/assets/css/resume 5-13.png)  
 ![My helpful screenshot](/assets/css/resume 5-14.png)  
 ![My helpful screenshot](/assets/css/resume 5-15.png)
