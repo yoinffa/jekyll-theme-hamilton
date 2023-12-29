@@ -24,7 +24,11 @@ permalink: /Skills/
 
 ## 4.Single cell RNA-seq data analysis
 - Clustering and cells annotation for single cell RNA-seq data  
-![My helpful screenshot](/assets/css/resume 5-8.png)
+![My helpful screenshot](/assets/css/单细胞测序1_页面_1.png)
+
+![My helpful screenshot](/assets/css/单细胞测序1_页面_2.png)
+
+![My helpful screenshot](/assets/css/单细胞测序1_页面_4.png)
 
 ## 5.Machine learning model construction
 - Predict the occurrence of diseases using decision tree and neural network machine learning models  
