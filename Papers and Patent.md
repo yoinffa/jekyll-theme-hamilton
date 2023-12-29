@@ -17,7 +17,9 @@ denervation on sympathoadrenal system in spontaneously hypertensive rats. Chin J
 3. A case with acute coronary occlusion in TAVR, how to prevent it? (Journal: JAMA Cardiology)
 
 **Reciepted**  
-Transcatheter aortic valve replacement via femoral artery access assisted by shockwave lithotripsy balloon: The First Report in China (Journal: Chinese Journal of Cardiology) (Published In Chinese)
+1. Dai Yongfa, Li Shiyun, Du Guoyong, et al. Application of Shockwave Intravascular Lithotripsy-Assisted Femoral
+Artery Access for TAVR: A Case Report [J]. Chinese Journal of Cardiovascular Diseases, 2023, 51(08): 866-869.
+DOI:10.3760/cma.j.cn112148-20230101-00001. (Published In Chinese)
 
 # Patent
 - **China National Patent:** A new type of hourglass-shaped measuring bottle. Patent number: **ZL 2020 2 0204512.0**
