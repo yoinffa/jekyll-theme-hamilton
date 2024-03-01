@@ -6,5 +6,5 @@ permalink: /about/
 ---
 #  Hi, I am Yongfa Dai from the south of China. Welcome to my page! I will be joining the University of Munich as a doctoral student, studying in Professor Gaertner's lab.
 
-[GET MY CV here!](/assets/css/CV.pdf)
+
 
