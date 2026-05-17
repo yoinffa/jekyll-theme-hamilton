@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-skin: daylight
+title: About
 permalink: /about/
 ---
 # Self Introduction
