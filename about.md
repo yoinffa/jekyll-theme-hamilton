@@ -1,10 +1,7 @@
 ---
 layout: page
-title: About me
-skin: daylight
+title: About
 permalink: /about/
 ---
-#  Hi, I am Yongfa Dai from the south of China. I am a doctoral student at University of Munich. Welcome to my page!
 
-
-&nbsp; &nbsp; Hi welcome to my page, I am Yongfa. I have a huge interest in machine learning and deep learning. I have acquired proficient skills in **R**, **Python**, **Perl languages**, as well as **shell programming** on Linux for bioinformatics data analysis. Throughout my Master's degree program, I actively participated in two national projects funded by the **National Natural Science Foundation of China** (Nos. 81660075 and Nos. 81960087). My responsibilities encompassed both upstream and downstream data analyses for **GWAS**, **RNA-seq**, **Single-cell RNA-Seq**, in addition to performing molecular and cell experiments. Moreover, I hold the designation of an **Advanced Technical Engineer** of **Computational Fluid Dynamics (CFD) simulation**. I possess the ability to simulate the hemodynamic characteristics of various cardiovascular disease models, including ascending aortic dilation, atrial fibrillation, aortic valve stenosis, and more.
+Another minimal style of Jekyll theme for writers.
