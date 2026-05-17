@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About me
-skin: daylight
-permalink: /about/
+title: about me
+permalink: /about_old/
 ---
 
 # Self Introduction
